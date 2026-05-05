@@ -1,42 +1,40 @@
-# ⚡️ [ T3X // ROOT_USER ]
+# ⚡️ [ TERMINAL_SYSTEM_v3.0 ]
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=istiaktasin124&color=7ed321&style=flat-square&label=VISITOR+SYSTEMS" alt="Visitors" />
-  <img src="https://img.shields.io/badge/Current_City-Cumilla-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat-square" />
-</div>
-
----
-
-### 🌐 THE CORE (Who am I?)
-- **Identity:** Istiak Mahmud Tasin
-- **Alias:** T3X (The Digital Persona)
-- **Base:** CSE Student @ BAIUST
-- **Specialization:** Web Development (PHP/MySQL) & Data Analysis
+<p align="center">
+  <img src="https://img.shields.io/badge/USER-T3X-green?style=for-the-badge&logo=gnumetronome" />
+  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SECTOR-CSE_BAIUST-blue?style=for-the-badge" />
+</p>
 
 ---
 
-### 🏛️ COMMAND CENTER (Leadership Roles)
-| Entity | Designation | Task Status |
-| :--- | :--- | :--- |
-| **BAIUST Sports Club** | **Media & Publication Secretary** | 🟢 ACTIVE |
-| **Rotaract Club of Mainamati** | Vice President | 🟢 ACTIVE |
-| **English Olympiad** | City Coordinator | 🟢 ACTIVE |
+### 🖥️ [SYSTEM_CORE_IDENTITY]
+- **Name:** Istiak Mahmud Tasin
+- **Alias:** T3X
+- **Current Node:** Tomsombridge, Cumilla
+- **Primary Logic:** Web Architecture (PHP/MySQL) & Data Analysis
 
 ---
 
-### 🛠️ ACTIVE DEPLOYMENTS
-- 🖥️ **Hall Seat Management System:** Streamlining university residence logistics.
-- 🎫 **NFC Profile Portal:** Next-gen digital identification system.
-- 🗳️ **Voting System:** Secure digital democratic interface.
+### 🛰️ [BROADCAST_OPERATIONS]
+> **Priority Node:** **Media & Publication Secretary** @ **BAIUST Sports Club**
+- **Network Lead:** Vice President @ Rotaract Club of Mainamati
+- **Protocol Chief:** City Coordinator @ English Olympiad
+- **Legacy Log:** ICPC 2024 Operations Volunteer
 
 ---
 
-### 🧩 SYSTEM LOGS (About Me)
-- 🚀 **Volunteer History:** ICPC 2024 (Operations Support).
-- 🛵 **Mobility:** Powered by TailG Rabbit F52.
-- 🎧 **Audio Interface:** High-fidelity enthusiast (Marshall/Sony).
-- 🏠 **Local Presence:** Operating from Tomsombridge, Cumilla.
+### 📂 [ACTIVE_PROCESSES]
+- 📁 `./hall-seat-mgmt` → Streamlining university logistics
+- 📁 `./nfc-portal` → Next-gen digital identification
+- 📁 `./voting-v2` → Engineering secure digital democracy
+
+---
+
+### 🔌 [SYSTEM_LOGS]
+- 🚀 **Mission:** Mastering Cybersecurity & High-Level Development
+- 🛵 **Mobility:** Powered by TailG Rabbit F52
+- 🎧 **Output:** High-fidelity enthusiast (Marshall/Sony)
 
 ---
 
